@@ -1,1 +1,2 @@
 node_modules/
+Ignore .env, Ignore /artifacts/, Ignore z* to exist in the .gitignore file
